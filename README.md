@@ -5,7 +5,7 @@ npm install react-native-pressablebutton
 # example
 ````
 import React,{Component} from 'react';
-import {View} from 'react-native';
+import {View,Text} from 'react-native';
 import Pressablebutton from 'react-native-pressablebutton';
 
 class App extends Component {
