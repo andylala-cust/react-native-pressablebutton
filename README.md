@@ -25,7 +25,7 @@ class App extends Component {
 export default App;
 
 `````
-#usage
+# usage
 | property | type | required | description |
 | :------: | :------: | :------: | :------: |
 | onPress | func | no | onPress |
