@@ -3,6 +3,9 @@ button look like pressable
 # installation
 npm install react-native-pressablebutton
 # example
+
+![avatar](./img/demo.gif)
+
 ````
 import React,{Component} from 'react';
 import {View,Text} from 'react-native';
