@@ -4,6 +4,14 @@ button look like pressable
 npm install react-native-pressablebutton
 # example
 
+cd examples
+
+npm install
+
+cd ios && pod install
+
+react-native run-ios
+
 ![avatar](./img/demo.gif)
 
 ````
